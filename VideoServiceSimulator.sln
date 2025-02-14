@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoServiceSimulatorTest", "VideoServiceSimulator\VideoServiceSimulatorTest.csproj", "{36B0B655-A531-460A-9144-B5B320897E9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoServiceSimulatorMain", "VideoServiceSimulatorMain\VideoServiceSimulatorMain.csproj", "{CBD06534-8006-495A-A58B-9DEF2F12D4CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36B0B655-A531-460A-9144-B5B320897E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B0B655-A531-460A-9144-B5B320897E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B0B655-A531-460A-9144-B5B320897E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B0B655-A531-460A-9144-B5B320897E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD06534-8006-495A-A58B-9DEF2F12D4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD06534-8006-495A-A58B-9DEF2F12D4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD06534-8006-495A-A58B-9DEF2F12D4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD06534-8006-495A-A58B-9DEF2F12D4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
